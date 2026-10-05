@@ -3,7 +3,7 @@ cat who was given a keyboard. now mostly uses it to do fullstack with typescript
 
 i also do CTFs sometimes. supposedly i main crypto but i always end up doing misc/web.
 
-#### 🌐 website: [`osmii.dev`](https://osmii.dev) being redesigned when i have the time
+#### 🌐 website: [`osm.sh`](https://osm.sh)
 
 #### 📪 if you want to contact me you can reach me on
 - Discord [`Osmii`](https://discord.com/users/328984108271140864)
