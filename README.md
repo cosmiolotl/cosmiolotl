@@ -1,14 +1,14 @@
 ### hi, i'm osmii. </h2>
-cat who was given a keyboard. now mostly uses it to do fullstack with typescript. allegedly familiar with c++, python, java. learning rust. contributes way too little to public projects. what does it even do all day.
+cat who was given a keyboard. now mostly uses it to do systems and infrastructure work. allegedly familiar with c++, python, java, rust. learning go and Lean4. contributes way too little to public projects. what does it even do all day.
 
-i also do CTFs sometimes. supposedly i main crypto but i always end up doing misc/web.
+currently working on the development **kenadian.cat**, a Minecraft network, and **sparrow**, an always-on agent. i also do CTFs sometimes. supposedly i main crypto but i always end up doing misc/web.
 
 #### 🌐 website: [`osm.sh`](https://osm.sh)
 
 #### 📪 if you want to contact me you can reach me on
 - Discord [`Osmii`](https://discord.com/users/328984108271140864)
 - Signal [`Osmii.76`](https://signal.me/#eu/RVWVvcp41O5k5LPphUui0kliZk6_VjgEB3IJMQmOaVb7iXk4MytASpB3MTUtW0oY)
-- Twitter [`@cosmiolotl`](https://twitter.com/@cosmiolotl)
+- X [`@cosmiolotl`](https://x.com/@cosmiolotl)
 
 
 ---
